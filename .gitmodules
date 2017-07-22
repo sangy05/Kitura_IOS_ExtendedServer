@@ -1,3 +1,12 @@
 [submodule "AuthenticationService"]
 	path = AuthenticationService
 	url = https://github.com/sangy05/AuthenticationService
+[submodule "BookService"]
+	path = BookService
+	url = https://github.com/sangy05/BookService
+[submodule "APIGateway_Bluemix"]
+	path = APIGateway_Bluemix
+	url = https://github.com/sangy05/APIGateway_Bluemix
+[submodule "iOS_BookListingApp"]
+	path = iOS_BookListingApp
+	url = https://github.com/sangy05/iOS_BookListingApp
